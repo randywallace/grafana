@@ -61,7 +61,7 @@
   "dependencies": {
     "grunt-jscs": "~1.5.x",
     "karma-sinon": "^1.0.3",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.20",
     "sinon": "1.10.3"
   }
 }
